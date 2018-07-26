@@ -1,0 +1,30 @@
+[
+    {
+        "app_name": "IwProyecto",
+        "app_user": "renzoalis",
+        "app_repos": "iwProject",
+        "app_branch": "master",
+        "sv_apps": [
+            {
+                "sv_name": "server1",
+                "sv_address": "127.0.0.1",
+                "sv_port": "3490",
+                "sv_path": "/home/cristian/asd"
+            }
+        ]
+    },
+    {
+        "app_name": "AngularJs",
+        "app_user": "angular",
+        "app_repos": "angular.js",
+        "app_branch": "master",
+        "sv_apps": []
+    },
+    {
+        "app_name": "IwClases",
+        "app_user": "agueijo",
+        "app_repos": "internetworking",
+        "app_branch": "master",
+        "sv_apps": []
+    }
+]

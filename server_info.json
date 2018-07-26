@@ -1,0 +1,42 @@
+[
+    {
+        "sv_name": "server1",
+        "sv_address": "127.0.0.1",
+        "sv_port": "3490"
+    },
+    {
+        "sv_name": "server2",
+        "sv_address": "127.0.0.2",
+        "sv_port": "3490"
+    },
+    {
+        "sv_name": "server3",
+        "sv_address": "127.0.0.3",
+        "sv_port": "3491"
+    },
+    {
+        "sv_name": "server4",
+        "sv_address": "127.0.0.4",
+        "sv_port": "3492"
+    },
+    {
+	"sv_name": "server5",
+	"sv_address": "127.0.0.5",
+	"sv_port": "3493"
+    },
+    {
+	"sv_name": "server6",
+	"sv_address": "127.0.0.6",
+	"sv_port": "3493"
+    },
+    {
+	"sv_name": "server7",
+	"sv_address": "127.0.0.7",
+	"sv_port": "3490"
+    },
+    {
+	"sv_name": "server8",
+	"sv_address": "127.0.0.8",
+	"sv_port": "3493"
+    }
+]

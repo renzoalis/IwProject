@@ -19,7 +19,7 @@
 #define URL_SIZE     256
 
 /*------------------------------------------------------------+
- + 		    	   ESTRUCTURAS			      +
+ + 		    	   ESTRUCTURAS			     			PRueba +
  +------------------------------------------------------------+
  + 'sv': Almacena los datos de un servidor                    +
  + 'app': Almacena los datos de una aplicación. Define un     +
